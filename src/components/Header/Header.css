@@ -36,6 +36,7 @@
 
   .header-container {
     max-width: 800px;
+    max-height: 40px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
